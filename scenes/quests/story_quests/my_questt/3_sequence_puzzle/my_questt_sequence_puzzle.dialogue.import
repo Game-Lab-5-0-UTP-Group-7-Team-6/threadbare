@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://b18q62ol5e4r1"
+path="res://.godot/imported/my_questt_sequence_puzzle.dialogue-33877a61a10989deaaf59e63673565cc.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_questt/3_sequence_puzzle/my_questt_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/my_questt_sequence_puzzle.dialogue-33877a61a10989deaaf59e63673565cc.tres"]
+
+[params]
+
+defaults=true

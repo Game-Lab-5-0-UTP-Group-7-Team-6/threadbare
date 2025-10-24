@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://brn7512s2sm4f"
+path="res://.godot/imported/my_questt_checkpoint.dialogue-6a3efbe78a27dbca5024ab41b06a6bea.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_questt/1_stealth/stealth_components/my_questt_checkpoint.dialogue"
+dest_files=["res://.godot/imported/my_questt_checkpoint.dialogue-6a3efbe78a27dbca5024ab41b06a6bea.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://ckb3yuhk7atgl"
+path="res://.godot/imported/my_questt_combat.dialogue-00bfe58294d360bf1905f1cbd7a0cdba.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_questt/2_combat/combat_components/my_questt_combat.dialogue"
+dest_files=["res://.godot/imported/my_questt_combat.dialogue-00bfe58294d360bf1905f1cbd7a0cdba.tres"]
+
+[params]
+
+defaults=true

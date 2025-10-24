@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://40ddd8ewjgqk"
+path="res://.godot/imported/my_questt_stealth.dialogue-af42605c07210ee6653331e57e7bf6cb.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_questt/1_stealth/stealth_components/my_questt_stealth.dialogue"
+dest_files=["res://.godot/imported/my_questt_stealth.dialogue-af42605c07210ee6653331e57e7bf6cb.tres"]
+
+[params]
+
+defaults=true

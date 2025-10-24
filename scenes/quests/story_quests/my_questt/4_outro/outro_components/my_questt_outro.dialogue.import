@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://camocgpn5gsd4"
+path="res://.godot/imported/my_questt_outro.dialogue-e08df2c8ada787ea8e4ee313b7953a09.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_questt/4_outro/outro_components/my_questt_outro.dialogue"
+dest_files=["res://.godot/imported/my_questt_outro.dialogue-e08df2c8ada787ea8e4ee313b7953a09.tres"]
+
+[params]
+
+defaults=true
